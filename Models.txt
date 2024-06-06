@@ -306,3 +306,32 @@ GT-P5100
 JDQ
 SM-T311
 KOT49H
+Nokia C2
+Nokia C12 Pro
+Nokia C12
+Nokia C2
+Nokia C2 2nd Edition
+Nokia C20
+Nokia C20 Plus
+Nokia C21
+Nokia C21 Plus
+Nokia C22
+Nokia C3
+Nokia C30
+Nokia C31
+Nokia C32
+Nokia G11 Plus
+Nokia G11
+Nokia G10
+Nokia G20
+Nokia G21
+Nokia G22
+Nokia G42 5G
+Nokia G50
+Nokia G60 5G
+Nokia T10
+Nokia T20
+Nokia T21
+Nokia X10
+Nokia X100
+Nokia X20
