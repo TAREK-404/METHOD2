@@ -343,26 +343,16 @@ vivo 1904
 vivo 1901
 V1955A
 LG-H342
-Redmi Note 4
-Redmi 4X
-Redmi 3
-Redmi 4
-Redmi 3X
-Redmi Note 7
-Redmi 6A
-Redmi Note 8 Pro
-Redmi 5A
-Redmi 5
-Redmi 6 Pro
-Redmi Note 5
-Redmi Note 4
-Redmi Y2
-Redmi 7A
-Redmi Note 7S
-Redmi Note 8T
-Redmi Note 8 Pro
-M2003J15SC
-Redmi 5 Plus
-Redmi Note 9 Pro
-Redmi Note 9S
-M2103K19G
+23127PN0CC
+23116PN5BC
+2206123SC
+23076RA4BC
+2206122SC
+23090RA98C
+23013RK75C
+22011211C
+23078RKD5C
+2106118C
+2304FPN6DC
+22041216UC
+22041216C
